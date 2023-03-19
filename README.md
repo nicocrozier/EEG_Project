@@ -1,2 +1,4 @@
-# bci
-bci final project code
+# Brain Computer Interfaces
+
+
+Controling a game using SVEEP signal.
